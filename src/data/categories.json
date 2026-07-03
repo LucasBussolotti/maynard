@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Accesorios",
+    "slug": "accesorios",
+    "icon": "🎵",
+    "count": 807,
+    "subcategories": [
+      {
+        "name": "Conectores y Cables",
+        "slug": "conectores-y-cables",
+        "count": 301
+      },
+      {
+        "name": "Cuerdas y Encordados",
+        "slug": "cuerdas-y-encordados",
+        "count": 236
+      },
+      {
+        "name": "Varios",
+        "slug": "varios",
+        "count": 96
+      },
+      {
+        "name": "Correas",
+        "slug": "correas",
+        "count": 56
+      },
+      {
+        "name": "Afinadores",
+        "slug": "afinadores",
+        "count": 30
+      },
+      {
+        "name": "Colgantes",
+        "slug": "colgantes",
+        "count": 21
+      },
+      {
+        "name": "Fuentes de Alimentación",
+        "slug": "fuentes-de-alimentacion",
+        "count": 20
+      },
+      {
+        "name": "Cancioneros",
+        "slug": "cancioneros",
+        "count": 14
+      },
+      {
+        "name": "Pilas y Baterías",
+        "slug": "pilas-y-baterias",
+        "count": 13
+      },
+      {
+        "name": "Soportes",
+        "slug": "soportes",
+        "count": 12
+      },
+      {
+        "name": "Atriles",
+        "slug": "atriles",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "Arco & Folk",
+    "slug": "arco-folk",
+    "icon": "🎻",
+    "count": 43,
+    "subcategories": [
+      {
+        "name": "Accesorios Arcos",
+        "slug": "accesorios-arcos",
+        "count": 33
+      },
+      {
+        "name": "Violines",
+        "slug": "violines",
+        "count": 8
+      },
+      {
+        "name": "Fundas",
+        "slug": "fundas",
+        "count": 1
+      },
+      {
+        "name": "Soportes",
+        "slug": "soportes",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Audio & Amplificación",
+    "slug": "audio-amplificacion",
+    "icon": "🔊",
+    "count": 412,
+    "subcategories": [
+      {
+        "name": "Micrófonos",
+        "slug": "microfonos",
+        "count": 112
+      },
+      {
+        "name": "Consolas",
+        "slug": "consolas",
+        "count": 55
+      },
+      {
+        "name": "Auriculares",
+        "slug": "auriculares",
+        "count": 51
+      },
+      {
+        "name": "Soportes Micrófono",
+        "slug": "soportes-microfono",
+        "count": 41
+      },
+      {
+        "name": "Bafles",
+        "slug": "bafles",
+        "count": 31
+      },
+      {
+        "name": "Ecualizadores",
+        "slug": "ecualizadores",
+        "count": 23
+      },
+      {
+        "name": "Bafles Activos",
+        "slug": "bafles-activos",
+        "count": 16
+      },
+      {
+        "name": "Parlantes",
+        "slug": "parlantes",
+        "count": 12
+      },
+      {
+        "name": "Drivers",
+        "slug": "drivers",
+        "count": 12
+      },
+      {
+        "name": "Interfaces de Audio",
+        "slug": "interfaces-de-audio",
+        "count": 10
+      },
+      {
+        "name": "Cajas Directas",
+        "slug": "cajas-directas",
+        "count": 9
+      },
+      {
+        "name": "Monitores Estudio",
+        "slug": "monitores-estudio",
+        "count": 8
+      },
+      {
+        "name": "Accesorios Estudio",
+        "slug": "accesorios-estudio",
+        "count": 8
+      },
+      {
+        "name": "Potencias",
+        "slug": "potencias",
+        "count": 7
+      },
+      {
+        "name": "Electrónica",
+        "slug": "electronica",
+        "count": 6
+      },
+      {
+        "name": "Monitores Escenario",
+        "slug": "monitores-escenario",
+        "count": 3
+      },
+      {
+        "name": "Instalación",
+        "slug": "instalacion",
+        "count": 3
+      },
+      {
+        "name": "DJ",
+        "slug": "dj",
+        "count": 3
+      },
+      {
+        "name": "Crossover",
+        "slug": "crossover",
+        "count": 1
+      },
+      {
+        "name": "Sistemas de Sonido",
+        "slug": "sistemas-de-sonido",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Baterías & Percusión",
+    "slug": "baterias-percusion",
+    "icon": "🥁",
+    "count": 857,
+    "subcategories": [
+      {
+        "name": "Parches",
+        "slug": "parches",
+        "count": 223
+      },
+      {
+        "name": "Accesorios Batería",
+        "slug": "accesorios-bateria",
+        "count": 95
+      },
+      {
+        "name": "Platillos",
+        "slug": "platillos",
+        "count": 70
+      },
+      {
+        "name": "Palillos",
+        "slug": "palillos",
+        "count": 68
+      },
+      {
+        "name": "Soportes",
+        "slug": "soportes",
+        "count": 58
+      },
+      {
+        "name": "Banda Rítmica",
+        "slug": "banda-ritmica",
+        "count": 36
+      },
+      {
+        "name": "Cencerros",
+        "slug": "cencerros",
+        "count": 35
+      },
+      {
+        "name": "Güiros",
+        "slug": "guiros",
+        "count": 27
+      },
+      {
+        "name": "Aros",
+        "slug": "aros",
+        "count": 22
+      },
+      {
+        "name": "Bombos",
+        "slug": "bombos",
+        "count": 20
+      },
+      {
+        "name": "Percusión Latina",
+        "slug": "percusion-latina",
+        "count": 19
+      },
+      {
+        "name": "Otros",
+        "slug": "otros",
+        "count": 15
+      },
+      {
+        "name": "Pedales de Bombo",
+        "slug": "pedales-de-bombo",
+        "count": 15
+      },
+      {
+        "name": "Redoblantes",
+        "slug": "redoblantes",
+        "count": 14
+      },
+      {
+        "name": "Cajón",
+        "slug": "cajon",
+        "count": 12
+      },
+      {
+        "name": "Bongós",
+        "slug": "bongos",
+        "count": 11
+      },
+      {
+        "name": "Repiques",
+        "slug": "repiques",
+        "count": 11
+      },
+      {
+        "name": "Baterías Acústicas",
+        "slug": "baterias-acusticas",
+        "count": 9
+      },
+      {
+        "name": "Fundas Percusión",
+        "slug": "fundas-percusion",
+        "count": 9
+      },
+      {
+        "name": "Shakers",
+        "slug": "shakers",
+        "count": 9
+      },
+      {
+        "name": "Panderetas",
+        "slug": "panderetas",
+        "count": 9
+      },
+      {
+        "name": "Fundas Batería",
+        "slug": "fundas-bateria",
+        "count": 9
+      },
+      {
+        "name": "Surdos",
+        "slug": "surdos",
+        "count": 8
+      },
+      {
+        "name": "Agogó",
+        "slug": "agogo",
+        "count": 7
+      },
+      {
+        "name": "Banquetas",
+        "slug": "banquetas",
+        "count": 7
+      },
+      {
+        "name": "Escobillas",
+        "slug": "escobillas",
+        "count": 7
+      },
+      {
+        "name": "Metalófonos",
+        "slug": "metalofonos",
+        "count": 7
+      },
+      {
+        "name": "Correas Percusión",
+        "slug": "correas-percusion",
+        "count": 6
+      },
+      {
+        "name": "Mazos",
+        "slug": "mazos",
+        "count": 4
+      },
+      {
+        "name": "Pandeiro",
+        "slug": "pandeiro",
+        "count": 4
+      },
+      {
+        "name": "Caixas",
+        "slug": "caixas",
+        "count": 3
+      },
+      {
+        "name": "Xilófonos",
+        "slug": "xilofonos",
+        "count": 3
+      },
+      {
+        "name": "Baterías Electrónicas",
+        "slug": "baterias-electronicas",
+        "count": 2
+      },
+      {
+        "name": "Timbaleta",
+        "slug": "timbaleta",
+        "count": 2
+      },
+      {
+        "name": "Tumbadoras",
+        "slug": "tumbadoras",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Guitarras & Bajos",
+    "slug": "guitarras-bajos",
+    "icon": "🎸",
+    "count": 551,
+    "subcategories": [
+      {
+        "name": "Accesorios Guitarra",
+        "slug": "accesorios-guitarra",
+        "count": 98
+      },
+      {
+        "name": "Guitarras Clásicas",
+        "slug": "guitarras-clasicas",
+        "count": 71
+      },
+      {
+        "name": "Clavijeros",
+        "slug": "clavijeros",
+        "count": 65
+      },
+      {
+        "name": "Ukeleles",
+        "slug": "ukeleles",
+        "count": 42
+      },
+      {
+        "name": "Fundas Guitarra",
+        "slug": "fundas-guitarra",
+        "count": 41
+      },
+      {
+        "name": "Amplificadores Guitarra",
+        "slug": "amplificadores-guitarra",
+        "count": 35
+      },
+      {
+        "name": "Guitarras Acústicas",
+        "slug": "guitarras-acusticas",
+        "count": 33
+      },
+      {
+        "name": "Guitarras Eléctricas",
+        "slug": "guitarras-electricas",
+        "count": 32
+      },
+      {
+        "name": "Estuches",
+        "slug": "estuches",
+        "count": 21
+      },
+      {
+        "name": "Soportes Guitarra",
+        "slug": "soportes-guitarra",
+        "count": 20
+      },
+      {
+        "name": "Bajos Eléctricos",
+        "slug": "bajos-electricos",
+        "count": 19
+      },
+      {
+        "name": "Capodastros",
+        "slug": "capodastros",
+        "count": 15
+      },
+      {
+        "name": "Cuerdas Sueltas",
+        "slug": "cuerdas-sueltas",
+        "count": 15
+      },
+      {
+        "name": "Púas",
+        "slug": "puas",
+        "count": 11
+      },
+      {
+        "name": "Amplificadores Bajo",
+        "slug": "amplificadores-bajo",
+        "count": 9
+      },
+      {
+        "name": "Fundas Bajo",
+        "slug": "fundas-bajo",
+        "count": 7
+      },
+      {
+        "name": "Accesorios Bajo",
+        "slug": "accesorios-bajo",
+        "count": 6
+      },
+      {
+        "name": "Charangos",
+        "slug": "charangos",
+        "count": 4
+      },
+      {
+        "name": "Amplificadores Acústica",
+        "slug": "amplificadores-acustica",
+        "count": 3
+      },
+      {
+        "name": "Bajos Acústicos",
+        "slug": "bajos-acusticos",
+        "count": 2
+      },
+      {
+        "name": "Amplificadores Multi",
+        "slug": "amplificadores-multi",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Luces & Escenario",
+    "slug": "luces-escenario",
+    "icon": "💡",
+    "count": 39,
+    "subcategories": [
+      {
+        "name": "Luces y Láser",
+        "slug": "luces-y-laser",
+        "count": 25
+      },
+      {
+        "name": "Máquinas de Humo",
+        "slug": "maquinas-de-humo",
+        "count": 7
+      },
+      {
+        "name": "Cortinas",
+        "slug": "cortinas",
+        "count": 6
+      },
+      {
+        "name": "Consolas de Luces",
+        "slug": "consolas-de-luces",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Pedaleras & Efectos",
+    "slug": "pedaleras-efectos",
+    "icon": "🎛️",
+    "count": 103,
+    "subcategories": [
+      {
+        "name": "Pedaleras",
+        "slug": "pedaleras",
+        "count": 96
+      },
+      {
+        "name": "Pedales",
+        "slug": "pedales",
+        "count": 6
+      },
+      {
+        "name": "Accesorios",
+        "slug": "accesorios",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Sin Categoría",
+    "slug": "sin-categoria",
+    "icon": "📦",
+    "count": 16,
+    "subcategories": [
+      {
+        "name": "Funda ukelele",
+        "slug": "funda-ukelele",
+        "count": 10
+      },
+      {
+        "name": "Otros",
+        "slug": "otros",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "Teclados & Pianos",
+    "slug": "teclados-pianos",
+    "icon": "🎹",
+    "count": 91,
+    "subcategories": [
+      {
+        "name": "Teclados",
+        "slug": "teclados",
+        "count": 30
+      },
+      {
+        "name": "Soportes Teclado",
+        "slug": "soportes-teclado",
+        "count": 16
+      },
+      {
+        "name": "Acordeones",
+        "slug": "acordeones",
+        "count": 12
+      },
+      {
+        "name": "Melódicas",
+        "slug": "melodicas",
+        "count": 11
+      },
+      {
+        "name": "Fundas Teclado",
+        "slug": "fundas-teclado",
+        "count": 10
+      },
+      {
+        "name": "Pianos",
+        "slug": "pianos",
+        "count": 9
+      },
+      {
+        "name": "Controladores MIDI",
+        "slug": "controladores-midi",
+        "count": 2
+      },
+      {
+        "name": "Sintetizadores",
+        "slug": "sintetizadores",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Vientos",
+    "slug": "vientos",
+    "icon": "🎺",
+    "count": 165,
+    "subcategories": [
+      {
+        "name": "Armónicas",
+        "slug": "armonicas",
+        "count": 48
+      },
+      {
+        "name": "Cañas",
+        "slug": "canas",
+        "count": 38
+      },
+      {
+        "name": "Accesorios Vientos",
+        "slug": "accesorios-vientos",
+        "count": 36
+      },
+      {
+        "name": "Flautas",
+        "slug": "flautas",
+        "count": 7
+      },
+      {
+        "name": "Soportes Vientos",
+        "slug": "soportes-vientos",
+        "count": 7
+      },
+      {
+        "name": "Instrumentos de Viento",
+        "slug": "instrumentos-de-viento",
+        "count": 6
+      },
+      {
+        "name": "Pipetas",
+        "slug": "pipetas",
+        "count": 6
+      },
+      {
+        "name": "Cornetas",
+        "slug": "cornetas",
+        "count": 4
+      },
+      {
+        "name": "Trompetas",
+        "slug": "trompetas",
+        "count": 4
+      },
+      {
+        "name": "Megáfonos",
+        "slug": "megafonos",
+        "count": 3
+      },
+      {
+        "name": "Saxos",
+        "slug": "saxos",
+        "count": 2
+      },
+      {
+        "name": "Trombones",
+        "slug": "trombones",
+        "count": 2
+      },
+      {
+        "name": "Flautas Traversas",
+        "slug": "flautas-traversas",
+        "count": 1
+      },
+      {
+        "name": "Otros",
+        "slug": "otros",
+        "count": 1
+      }
+    ]
+  }
+]
