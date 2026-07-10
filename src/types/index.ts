@@ -10,6 +10,9 @@ export interface Product {
   subcategory: string;
   modelo: string;
   imagen: string | null;
+  destacado: boolean;
+  oferta: boolean;
+  precioOferta: number | null;
 }
 
 export interface Category {
